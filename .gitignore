@@ -1,0 +1,11 @@
+# Arquivos de dados do Instagram
+*.html
+*.zip
+followers_and_following/
+
+# Python e arquivos de ambiente
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
